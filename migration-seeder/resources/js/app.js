@@ -1,1 +1,7 @@
 require('./bootstrap');
+
+function init() {
+  console.log('Hello world');
+}
+
+init();
